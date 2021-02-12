@@ -5,24 +5,24 @@ I addressed both files by making the html more descriptive and consolidated css 
 ## Changes Made: 
 
 * html
-  -made `tile` more specific by changing it to clients name
-  -with in body made the div `header` 
-  -in the `h1` element removed a span and class that had no declaration in css
-  -the img under the header the div was changed to `figure` for the   background img
-  -made a `main` div
-  -made a `article` div under `main`
-  -made a `aside` div for side bar 
-  -made `section` div under `aside`
-  -img [./assets/images/cost-management.png] had a closing tag that was  removed
-  -made `footer` div
-  -changed the heart symbol to be read on all browsers
+  *-*made `tile` more specific by changing it to clients name
+  *-*with in body made the div `header` 
+  *-*in the `h1` element removed a span and class that had no declaration in css
+  *-*the img under the header the div was changed to `figure` for the   background img
+  *-*made a `main` div
+  *-*made a `article` div under `main`
+  *-*made a `aside` div for side bar 
+  *-*made `section` div under `aside`
+  *-*img [./assets/images/cost*-*management.png] had a closing tag that was  removed
+  *-*made `footer` div
+  *-*changed the heart symbol to be read on all browsers
 
 * css
-  -all `header` declarations were changed from class to target element
-  -`main` was changed to target element from class
-  -`aside` was changed to target emement from class
-  -consolidated repeditive declarations 
-  -changed `footer` to target element 
+  *-*all `header` declarations were changed from class to target element
+  *-*`main` was changed to target element from class
+  *-*`aside` was changed to target emement from class
+  *-*consolidated repeditive declarations 
+  *-*changed `footer` to target element 
   
 ## Help
 
