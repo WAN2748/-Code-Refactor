@@ -30,3 +30,6 @@ I addressed both files by making the html more descriptive and consolidated css 
 
 * Brian Adams and Takuya Matsumoto pointed out necessary changes in a homework discussion chat
 
+## update
+
+* fixed links and repo name 6/8/21
